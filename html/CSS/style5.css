@@ -1,0 +1,31 @@
+.grid-view{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    
+}
+.grid-item{
+    background-color:aquamarine;
+    border-top:5px solid;
+    border-bottom: 5px solid;
+    padding: 50px;
+    font-size: 50px;
+    text-align: center;
+    left: 0;
+    
+}
+#grid-item2{
+    background-color:red;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+}
+#grid-item4{
+    background-color:red;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+}

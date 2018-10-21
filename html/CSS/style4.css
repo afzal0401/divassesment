@@ -1,0 +1,30 @@
+.view{
+    width 1024px;
+    height: 610px;
+    background-color: bisque;
+}
+#grid-item1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+}
+#grid-item2{
+    height: 300px;
+    width: 200px;
+    background: red;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+}
+#grid-item3{
+    background-color: blue;
+    height: 610px;
+    width: 950px;
+    margin-left: 200px;
+    text-align: center;
+    font-size: 30px;
+    
+}

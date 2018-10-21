@@ -1,0 +1,36 @@
+.main {
+	height:10%;
+	width:100%;
+	background-color: red;
+}
+.cont {
+	width:100%;
+	clear:both;
+}
+.left {
+	width:50%;
+	background-color: green;
+	float:left;
+	height: 70%;
+}
+.right {
+	width:50%;
+	background-color: blue;
+	float:right;
+	height:70%;
+}
+#clear {
+   clear: both;
+}
+#footer {
+  background-color:grey;
+  height:10%;
+}
+/*@media screen and (max-width: 400px){
+    .right {
+        width: 100%;
+    }
+    .left {
+        width: 100%;
+    }
+}*/

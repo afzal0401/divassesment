@@ -1,0 +1,36 @@
+#wallpaper{
+    background-color:antiquewhite;
+    width: 1350px;
+    height: 610px;
+}
+#header{
+    background-color: aliceblue;
+    border: 2px solid;
+    height: 75px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+}
+#lcol{
+    float: left;
+}
+.col{
+    height: 160px;
+    width: 220px;
+    border: 2px solid;
+    margin:3px;
+    background-color: aliceblue;
+}
+#rcol{
+    float: right;
+}
+.body{
+    height: 494px;
+    width: 886px;
+    margin-top: 3px;
+    border: 2px solid;
+    background-color: aliceblue;
+    margin-left: 230px;
+}

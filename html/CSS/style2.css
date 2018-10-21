@@ -1,0 +1,20 @@
+.left{
+    background: yellow;
+    float: left;
+    height: 100%;
+    width: 49%;
+    border-style: dashed;
+}
+.right{
+    background-color: aquamarine;
+    float: right;
+    height: 100%;
+    width: 49%;
+    border-style: dashed;
+    }
+#id{
+    color: coral;
+}
+#id1{
+    color: coral;
+}

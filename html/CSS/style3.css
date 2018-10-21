@@ -1,0 +1,12 @@
+.grid-view{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-item{
+    background-color:aquamarine;
+    border:1px solid;
+    padding: 100px;
+    font-size: 50px;
+    text-align: center;
+    
+}

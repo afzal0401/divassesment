@@ -1,0 +1,53 @@
+.wallpaper{
+    background-color: blueviolet;
+    width: 1350px;
+    height: 600px;
+}
+
+.left{
+    height: 99%;
+    width: 20%;
+    outline: 2px solid;
+    background-color: beige;
+    float: left;
+    
+}
+
+.section{
+    width: 75%;
+    height: 30%;
+    border: 2px solid;
+    background: 2px solid;
+    margin-left: 22%;
+    background-color: beige;
+    margin-top: 10px;
+}
+
+
+.col1{
+    
+    height: 200px;
+    width: 500px;
+    float: right;
+    border: 2px solid;
+    background-color: beige;
+    margin-left: 22%;
+    margin-right: 35px;
+    
+}
+
+.col2{
+    height: 200px;
+    width: 500px;
+    border: 2px solid;
+    background-color: beige;
+    margin-left: 22%;
+}
+
+.section1{
+    height: 25%;
+    width: 75%;
+    border: 2px solid;
+    margin-left: 22%;
+    background-color: beige;
+}
